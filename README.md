@@ -24,7 +24,6 @@
        - t-SNE plots
 4. Final Report (individual)
 
-
 <img src="Text_Pipeline.png" width="600">
 
 ## Forms of Text Data
