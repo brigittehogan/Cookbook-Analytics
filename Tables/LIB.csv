@@ -7,7 +7,7 @@ book_id,author_last,author_full,book_year,book_title,book_file
 10582,Bradley,Alice Bradley,1923,For Luncheon and Supper Guests,Cookbooks/Bradley1923_FLSG_pg10582.txt
 12519,Randolf,Mary Randolph,1860,The Virginia Housewife,Cookbooks/Randolf1860_VAHousewife_pg12519.txt
 15464,Goudiss,Alice Bradley,1918,Foods That Will Win The War And How To Cook,Cookbooks/Goudiss1918_War_pg15464.txt
-19077,Hill,Janet McKenzie Hill,1909,"Salads, Sandwiches and Chafing-Dish Dainties",Cookbooks/Hill1909_SSCDD_pg19077.txt
+19077,Hill,Janet McKenzie Hill,1909,"Salads, Sandwiches and Chafing - Dish Dainties",Cookbooks/Hill1909_SSCDD_pg19077.txt
 24205,Murrey,Thomas J. Murrey,1885,Breakfast Dainties,Cookbooks/Murrey1885_Bfast_pg24205.txt
 24542,Murrey,Thomas J. Murrey,1885,Fifty Salads,Cookbooks/Murrey1885_Salads_pg24542.txt
 25007,Murrey,Thomas J. Murrey,1884,Fifty Soups,Cookbooks/Murrey1884_Soups_pg25007.txt
@@ -18,4 +18,4 @@ book_id,author_last,author_full,book_year,book_title,book_file
 38464,Murrey,Thomas J. Murrey,1891,Tempting Curry Dishes,Cookbooks/Murrey1891_Curry_pg38464.txt
 53521,Murrey,Thomas J. Murrey,1888,Oysters and Fish,Cookbooks/Murrey1888_Fish_pg53521.txt
 54568,Boland,Mary A. Boland,1893,A Handbook of Invalid Cooking,Cookbooks/Boland1893_Invalid_pg54568.txt
-61185,Payne,Arthur Gay Payne,1877,Common-Sense Papers on Cookery,Cookbooks/Payne1877_CSPC_pg61185.txt
+61185,Payne,Arthur Gay Payne,1877,Common - Sense Papers on Cookery,Cookbooks/Payne1877_CSPC_pg61185.txt
