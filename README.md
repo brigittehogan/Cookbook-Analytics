@@ -1,6 +1,6 @@
 # DS 5001 Text Analytics Final Project
 
-## [Project Project Instructions](https://docs.google.com/document/d/1kAD7CuOwSKmhEsqa8rQ_NjRaOw2PDDwmqF4-Bac0Nxw/edit#heading=h.gjdgxs)
+## [Project Instructions](https://docs.google.com/document/d/1kAD7CuOwSKmhEsqa8rQ_NjRaOw2PDDwmqF4-Bac0Nxw/edit#heading=h.gjdgxs)
 
 ## Deliverables
 1. Compressed Source Files
@@ -24,7 +24,7 @@
        - t-SNE plots
 4. Final Report (individual)
 
-## Text Pipeline
+
 <img src="Text_Pipeline.png" width="600">
 
 ## Forms of Text Data
