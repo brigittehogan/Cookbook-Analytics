@@ -25,7 +25,7 @@
 4. Final Report (individual)
 
 ## Text Pipeline
-![Text_Pipeline](link-to-image)
+<img src="Text_Pipeline.png" width="600">
 
 ## Forms of Text Data
-![Forms_Text_Data](link-to-image)
+<img src="Forms_Text_Data.png" width="600">
