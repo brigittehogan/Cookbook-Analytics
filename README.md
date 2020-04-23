@@ -11,10 +11,10 @@
     - VOCAB.csv
 3. Jupyter Notebooks
     - TFIDF: *Jason*
-    - Principal Components: *TBD*
+    - Principal Components: *Brigitte*
     - Topic Models (LDA): *Brigitte*
-    - Word Embeddings (word2vec): *TBD*
-    - Sentiment Analysis: *TBD*
+    - Word Embeddings (word2vec): *Jason*
+    - Sentiment Analysis: *Jason*
     - Visuals (choose at least 3)
        - Hierarchical cluster diagrams
        - Heatmaps showing correlations
