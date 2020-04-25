@@ -2,6 +2,9 @@
 
 ## [Project Instructions](https://docs.google.com/document/d/1kAD7CuOwSKmhEsqa8rQ_NjRaOw2PDDwmqF4-Bac0Nxw/edit#heading=h.gjdgxs)
 
+## [Source Documents](https://www.gutenberg.org/wiki/Cookbooks_and_Cooking_(Bookshelf))
+General cookbooks
+
 ## Deliverables
 1. Compressed Source Files
     - Manifest File (text)
