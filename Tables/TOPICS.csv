@@ -1,0 +1,26 @@
+topic_id,0,1,2,3,4,5,6,7,8,9,label,doc_weight_sum
+0,juice,sugar,water,lemon,fruit,pudding,orange,jelly,syrup,bottle,0 juice sugar water lemon fruit pudding orange jelly syrup bottle,544.136575018857
+1,crumbs,parsley,lobster,pepper,sauce,butter,oysters,egg,salt,mayonnaise,1 crumbs parsley lobster pepper sauce butter oysters egg salt mayonnaise,522.5472110894628
+2,powder,oysters,flavour,soda,acid,spice,cook,sweetbreads,ingredients,relish,2 powder oysters flavour soda acid spice cook sweetbreads ingredients relish,463.35130223488864
+3,knife,lettuce,pieces,skin,dressing,end,way,oil,salad,slices,3 knife lettuce pieces skin dressing end way oil salad slices,471.57214460265357
+4,food,rice,tea,family,day,diet,foods,value,time,grains,4 food rice tea family day diet foods value time grains,511.4015688856977
+5,potatoes,meal,soup,coffee,breakfast,way,carrots,dish,dinner,stock,5 potatoes meal soup coffee breakfast way carrots dish dinner stock,531.5737408014999
+6,food,water,body,jars,foods,substances,pressure,air,protein,salts,6 food water body jars foods substances pressure air protein salts,583.3720817836156
+7,water,minutes,salt,boiling,tender,hour,boil,point,pieces,hours,7 water minutes salt boiling tender hour boil point pieces hours,768.359249258719
+8,sugar,eggs,water,milk,flour,butter,mixture,egg,salt,pound,8 sugar eggs water milk flour butter mixture egg salt pound,1155.4432381562706
+9,cake,kind,method,cakes,pastry,preparation,dessert,making,recipes,kinds,9 cake kind method cakes pastry preparation dessert making recipes kinds,557.2693624653499
+10,meat,beef,mutton,roast,ham,chops,veal,steak,piece,steaks,10 meat beef mutton roast ham chops veal steak piece steaks,704.0040633288613
+11,soup,head,meat,pieces,stock,hour,turtle,quarts,lobster,pounds,11 soup head meat pieces stock hour turtle quarts lobster pounds,531.1702574700106
+12,tsp,salt,butter,pepper,tomatoes,milk,chicken,onion,water,toast,12 tsp salt butter pepper tomatoes milk chicken onion water toast,715.1221306102583
+13,butter,pie,paste,bread,crust,slices,place,filling,table,slice,13 butter pie paste bread crust slices place filling table slice,463.03060318724664
+14,fish,water,dish,salt,hour,hours,macaroni,salmon,day,layer,14 fish water dish salt hour hours macaroni salmon day layer,532.765539654797
+15,egg,eggs,ice,mixture,beans,cheese,shell,cakes,place,liquid,15 egg eggs ice mixture beans cheese shell cakes place liquid,496.6518561694155
+16,salad,cooking,dressing,salads,temperature,time,oil,year,heat,meat,16 salad cooking dressing salads temperature time oil year heat meat,496.5889073826677
+17,fat,flour,meat,bread,wheat,salt,hare,pork,potato,pan,17 fat flour meat bread wheat salt hare pork potato pan,451.46664650447315
+18,fruit,fruits,vegetables,sugar,food,flavor,foods,cabbage,apples,value,18 fruit fruits vegetables sugar food flavor foods cabbage apples value,728.2836869796959
+19,bread,ingredients,dough,time,work,cookery,process,making,use,things,19 bread ingredients dough time work cookery process making use things,660.7044937994746
+20,milk,cream,water,cheese,custard,dish,sugar,place,butter,boiler,20 milk cream water cheese custard dish sugar place butter boiler,515.7349330402267
+21,oven,dish,bacon,place,minutes,bone,pan,layer,butter,shells,21 oven dish bacon place minutes bone pan layer butter shells,416.34807313420924
+22,sauce,pan,butter,salt,pepper,gravy,flour,minutes,spoonful,water,22 sauce pan butter salt pepper gravy flour minutes spoonful water,880.5961411996461
+23,coffee,corn,food,cereals,chocolate,use,cocoa,beverages,value,cereal,23 coffee corn food cereals chocolate use cocoa beverages value cereal,510.340204734199
+24,cup,teaspoon,tablespoons,cups,water,tablespoon,salt,milk,tablespoonfuls,teaspoonful,24 cup teaspoon tablespoons cups water tablespoon salt milk tablespoonfuls teaspoonful,634.1659885074594
